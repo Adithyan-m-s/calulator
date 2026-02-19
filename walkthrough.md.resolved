@@ -1,0 +1,32 @@
+# Walkthrough - Modern Transparent Calculator
+
+I have built a modern, responsive calculator with a glassmorphism design and smooth animations.
+
+## Features
+- **Glassmorphism UI**: Frosted glass effect using `backdrop-filter`.
+- **Smooth Animations**: Button scaling on hover, micro-interactions on click, and entry animations.
+- **Full Functionality**: Basic arithmetic operations, keyboard support, clear (AC), and delete (DEL) features.
+- **Responsive Design**: Works well on different screen sizes.
+
+## Design Highlights
+- Vibrant animated background circles.
+- Modern font ('Outfit' from Google Fonts).
+- Hover and Active states for all buttons to provide visual feedback.
+
+## Verification Results
+I've verified the following operations:
+- `7 + 8 = 15`
+- `25 * 4 = 100`
+- Deletion logic and clear functionality.
+
+### Visual Confirmation
+![Calculator Addition Result](file:///C:/Users/aaadi/.gemini/antigravity/brain/f6043e8d-73ef-444b-9842-19c8dccb4a6e/calculator_7_plus_8_result_1771522122555.png)
+*Example calculation: 7 + 8 = 15*
+
+![Calculator Multiplication Result](file:///C:/Users/aaadi/.gemini/antigravity/brain/f6043e8d-73ef-444b-9842-19c8dccb4a6e/calculator_25_times_4_result_1771522152605.png)
+*Example calculation: 25 * 4 = 100*
+
+## File Structure
+- [index.html](file:///c:/Users/aaadi/OneDrive/Desktop/webpage%20desining/modern%20calculater/index.html): Main structure.
+- [style.css](file:///c:/Users/aaadi/OneDrive/Desktop/webpage%20desining/modern%20calculater/style.css): Glassmorphism styling and animations.
+- [script.js](file:///c:/Users/aaadi/OneDrive/Desktop/webpage%20desining/modern%20calculater/script.js): Calculator logic and event handling.
